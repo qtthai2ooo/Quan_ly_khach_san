@@ -2,24 +2,10 @@
 3.6.1. Form đăng nhập – Form chạy đầu tiên của chương trình
 ![image](https://user-images.githubusercontent.com/106573227/171441146-4f9a44eb-8b30-4646-b7fc-c82f250709e5.png)
 
- 
-Hình 3.25 Form Đăng nhập – Form chạy đầu tiên của chương trình
-Chức năng nút lệnh:
-Tên nút lệnh	Ý nghĩa	Sự kiện
-Đăng Nhập	Đăng nhập vào hệ thống	Click
-Bảng 3.1 Chức năng Form đăng nhập	
-3.6.2 Form giao diện chính của phần mềm
 
- 
-Hình 3.26 giao diện chính của phần mềm
-Chức năng nút lệnh:
-Tên nút lệnh	Ý nghĩa	Sự kiện
-Nhân Viên	Quản lý Nhân Viên	Click
-Dịch Vụ	Quản lý Dịch Vụ	Click
-Phòng	Quản lý Phòng	Click
-Khách Hàng	Quản Lý Khách Hàng	Click
-Hóa Đơn	Quản Lý Hóa Đơn	Click
-	Bảng 3.2 Chức năng Form chính
+3.6.2 Form giao diện chính của phần mềm
+https://user-images.githubusercontent.com/106573227/171441522-fd36d5f7-99a4-4194-8e92-94e189d70ce2.png
+
 3.6.3 Form Quản Lý Nhân Viên
 
   
