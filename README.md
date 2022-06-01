@@ -1,12 +1,18 @@
 # Quan_ly_khach_san
-Chương trình java kết nối với cơ sở dữ liệu mysql cho phép nhân viên quản lí và theo dõi thông tin từng khách hàng, phòng ốc  một cách chính xác.Tra cứu, thống kê kết quả,...
-# Các chức năng hệ thống
-Đăng nhập tài khoản để xứ lý chương trình.
-thêm sửa ,xóa, và hiển thị thông tin của nhân viên
-Thêm, sửa, xóa và hiện thị thông tin dịch vụ
-Hiển thị thêm,sửa.xóa các thông tin phòng
-Hiển thị thêm, sửa, xóa các thông tin khách hàng
-Hiển thị thêm sửa xóa các thông tin hóa đơn
+Chương trình java kết nối với cơ sở dữ liệu mysql cho phép nhân viên quản lí và theo dõi thông tin từng khách hàng, phòng ốc một cách chính xác. Tra cứu, thống kê kết quả,...
+# Các chức năng hệ thống 
+ Đăng nhập tài khoản để xứ lý chương trình. 
+ 
+ thêm sửa ,xóa, và hiển thị thông tin của nhân viên
+ 
+ Thêm, sửa, xóa và hiện thị thông tin dịch vụ
+ 
+ Hiển thị thêm,sửa.xóa các thông tin phòng
+ 
+ Hiển thị thêm, sửa, xóa các thông tin khách hàng
+ 
+ Hiển thị thêm sửa xóa các thông tin hóa đơn
+ 
 # Sơ đồ CSDL
 ![image](https://user-images.githubusercontent.com/106573227/171445576-774e69a2-c836-4b09-8b91-25134cc6001b.png)
 
