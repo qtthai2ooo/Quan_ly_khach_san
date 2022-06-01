@@ -1,65 +1,19 @@
 # Quan_ly_khach_san
-3.6.1. Form đăng nhập – Form chạy đầu tiên của chương trình
+Form đăng nhập – Form chạy đầu tiên của chương trình
 ![image](https://user-images.githubusercontent.com/106573227/171441146-4f9a44eb-8b30-4646-b7fc-c82f250709e5.png)
 
 
-3.6.2 Form giao diện chính của phần mềm
+Form giao diện chính của phần mềm
 ![image](https://user-images.githubusercontent.com/106573227/171441522-fd36d5f7-99a4-4194-8e92-94e189d70ce2.png)
-
-3.6.3 Form Quản Lý Nhân Viên
-
-  
-Hình 3.27 Quản lý thông tin nhân viên
-Chức năng nút lệnh:
-Tên nút lệnh	Ý nghĩa	Sự kiện
-Thêm	Thêm Thông Tin Nhân Viên	Click
-Sửa	Sửa Thông Tin Nhân Viên	Click
-Xóa	Xóa Thông Tin Nhân Viên	Click
-Tìm kiếm	Tìm Nhân Viên	Click
-Bảng 3.3 Chức năng quản Lý thông tin Nhân Viên
-3.6.4 Form quản lý Dịch Vụ
- 
-Hình 3.28 quản lý thông tin Dịch Vụ
-Chức năng nút lệnh:
-Tên nút lệnh	Ý nghĩa	Sự kiện
-Thêm	Thêm Thông Tin Dịch Vụ	Click
-Sửa	Sửa Thông Tin Dịch Vụ	Click
-Xóa	Xóa Thông Tin Dịch Vụ	Click
-Tìm Kiếm	Tìm Dịch Vụ	Click
-
-Bảng 3.4 Chức năng quản lý thông tin Dịch Vụ
-3.6.5 Quản lý phòng khách sạn
- 
-Hình 3.29 Quản lý phòng khách sạn
-Chức năng nút lệnh:
-Tên nút lệnh	Ý nghĩa	Sự kiện
-Thêm	Thêm Thông Tin Phòng	Click
-Sửa	Sửa Thông Tin Phòng	Click
-Xóa	Xóa Thông Tin Phòng	Click
-Tìm kiếm 	Tìm Phòng	Click
-
-Bảng 3.5 Chức năng Quản lý phòng khách sạn
-3.6.6 Quản lý thông tin  Khách Hàng
+Form Quản Lý Nhân Viên
 
  
-Hình 3.30 quản lý thông tin khách Hàng
-Chức năng nút lệnh:
-Tên nút lệnh	Ý nghĩa	Sự kiện
-Thêm	Thêm Thông Tin Khách Hàng	Click
-Sửa	Sửa Thông Tin Khách Hàng	Click
-Xóa	Xóa Thông Tin Khách Hàng	Click
-Tìm kiếm	Tìm Khách Hàng	Click
 
-Bảng 3.6 Chức năng Form Khách Hàng
+Quản lý phòng khách sạn
 
-3.6.7 Quản lý Hóa Đơn khách sạn
- 
-Hình 3.31 Quản lý Hóa Đơn khách sạn
-Chức năng nút lệnh:
-Tên nút lệnh	Ý nghĩa	Sự kiện
-Thêm	Thêm Hóa Đơn	Click
-Sửa	Sửa Thông  Tin Hóa Đơn	Click
-Xóa	Xóa Thông Tin Hóa Đơn	Click
-Tìm kiếm	Tìm Hóa Đơn	Click
+Quản lý thông tin  Khách Hàng
 
-Bảng 3.7 Chức năng Quản lý Hóa Đơn khách sạn
+
+Quản lý Hóa Đơn khách sạn
+
+
