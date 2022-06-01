@@ -4,7 +4,7 @@
 
 
 3.6.2 Form giao diện chính của phần mềm
-https://user-images.githubusercontent.com/106573227/171441522-fd36d5f7-99a4-4194-8e92-94e189d70ce2.png
+![image](https://user-images.githubusercontent.com/106573227/171441522-fd36d5f7-99a4-4194-8e92-94e189d70ce2.png)
 
 3.6.3 Form Quản Lý Nhân Viên
 
